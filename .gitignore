@@ -1,5 +1,5 @@
 prots
-
+*.data
 *.py[cod]
 
 # C extensions
